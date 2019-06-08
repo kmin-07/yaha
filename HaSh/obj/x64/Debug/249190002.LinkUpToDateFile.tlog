@@ -1,1 +1,0 @@
-g++ -o "/home/oracle/projects/HaSh/bin/x64/Debug/HaSh.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/oracle/projects/HaSh/../HaSh/obj/x64/Debug/main.o
