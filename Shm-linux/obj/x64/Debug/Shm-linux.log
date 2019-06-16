@@ -1,0 +1,9 @@
+﻿  正在验证源
+  正在将源远程复制到“192.168.47.130”
+  正在验证体系结构
+  正在验证体系结构
+  正在启动远程生成
+  正在编译源:
+  BaseShm.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.targets(405,5): error : g++ 已退出，代码为 1，请查看输出窗口 - 生成输出，了解详细信息(注意: 若要在输出窗口中查看详细信息，则可能需要在工具选项中更改生成输出详细信息)。
+  main.cpp

@@ -1,0 +1,11 @@
+﻿  正在验证源
+  正在将源远程复制到“106.14.126.211”
+  正在验证体系结构
+  正在验证体系结构
+  正在启动远程生成
+  正在编译源:
+  main.cpp
+  TcpServer.cpp
+  TcpSocket.cpp
+  正在链接对象
+  tcp-Server.vcxproj -> D:\work\kamanda\TCP\tcp-Server\bin\x64\Debug\tcp-Server.out

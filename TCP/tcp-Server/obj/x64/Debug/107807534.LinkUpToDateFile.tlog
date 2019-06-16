@@ -1,0 +1,1 @@
+g++ -o "/home/admin/xxxx/tcp-Server/bin/x64/Debug/tcp-Server.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack "/home/admin/xxxx/tcp-Server/../tcp-Server/obj/x64/Debug/main.o" "/home/admin/xxxx/tcp-Server/../tcp-Server/obj/x64/Debug/TcpServer.o" "/home/admin/xxxx/tcp-Server/../tcp-Server/obj/x64/Debug/TcpSocket.o"
